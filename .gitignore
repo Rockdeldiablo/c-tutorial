@@ -1,2 +1,8 @@
-# ignore all files in any directory named ignorare
-ignorare/
+# ignore all .a files
+*.a
+
+# ignore only the TODO file in the current directory, not subdir/TODO
+/TODO
+
+# igonre all files in any directory named tmp
+tmp/

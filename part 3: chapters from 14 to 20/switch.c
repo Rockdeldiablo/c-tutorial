@@ -24,7 +24,7 @@ scanf(" %d", &choice);
 switch (choice)
 {
 case (1): printf("\nTo add you will need the" );
-printf("contact\'s\n");
+printf(" contact\'s\n");
 printf("First name, last name, and number.\n");
 break;
 case (2): printf("\nGet ready to enter the name of ");
